@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Stonehenge</string>
+
+    <string name="title_text">Stonehenge</string>
+    <string name="detail_text">One of the most famous sites in the world ,Stonehege is a prehistoric mounment located in wiltshire,England ,about 2 miles west of Amesbury and 8 miles north of Salisbury.</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_image">ImageActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
